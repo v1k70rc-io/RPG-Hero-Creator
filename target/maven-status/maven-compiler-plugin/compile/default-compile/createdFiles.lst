@@ -1,0 +1,15 @@
+com\rpg\factory\FireFactory.class
+com\rpg\view\ConsoleView.class
+com\rpg\factory\IceArmor.class
+com\rpg\factory\HeroFactory.class
+com\rpg\controller\GameController.class
+com\rpg\factory\FireWeapon.class
+com\rpg\factory\Weapon.class
+com\rpg\model\HeroRegistry.class
+com\rpg\factory\IceWeapon.class
+com\rpg\factory\FireArmor.class
+com\rpg\factory\IceFactory.class
+com\rpg\main\RPGHeroCreator.class
+com\rpg\model\Hero.class
+com\rpg\config\GameSettings.class
+com\rpg\factory\Armor.class
