@@ -1,2 +1,3 @@
 # RPG-Hero-Creator
-RPG Hero Creator: Un sistema interactivo por consola para la creación y equipamiento de héroes legendarios, diseñado para demostrar el dominio de patrones de diseño (Singleton, Prototype, Abstract Factory) y arquitectura MVC
+
+RPG-Hero-Creator: App realizada para la practica de arquitectura de software MVC y patrones de diseño tales como: Singleton, Prototype y AbstractFactory.
